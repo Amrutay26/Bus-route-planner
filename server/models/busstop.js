@@ -4,7 +4,7 @@ const busstopschema=new mongoose.Schema({
     stopName:{
         type: String,
     required :[true,"Stop name is required"],
-    maxlength:[20]
+    maxlength:[100]
 },
    stopId :{
     type: Number,
