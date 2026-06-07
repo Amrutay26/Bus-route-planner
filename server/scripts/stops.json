@@ -1,0 +1,2056 @@
+{
+
+  "elements": [
+
+{
+  "type": "node",
+  "id": 871529595,
+  "lat": 18.5500105,
+  "lon": 73.8090210,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Baner Phata",
+    "name:en": "Baner Phata",
+    "name:mr": "बाणेर फाटा",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1226588499,
+  "lat": 18.5957701,
+  "lon": 73.9245544,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lohgaon",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1280212979,
+  "lat": 18.6713320,
+  "lon": 73.8919510,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "yes",
+    "highway": "bus_stop",
+    "local_ref": "Dehu Phata Bus stop",
+    "name": "Dehu Phata",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wikidata": "Q7260109",
+    "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2086912327,
+  "lat": 18.5418522,
+  "lon": 73.8277261,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Pune University",
+    "name:mr": "पुणे विद्यापीठ",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2086912362,
+  "lat": 18.5429264,
+  "lon": 73.8256999,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "yes",
+    "highway": "bus_stop",
+    "name": "Pune University",
+    "name:mr": "पुणे विद्यापीठ",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2280623602,
+  "lat": 18.5007741,
+  "lon": 73.9379146,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hadapsar",
+    "operator": "PMPML",
+    "place": "locality",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2358247540,
+  "lat": 18.5136511,
+  "lon": 73.8528438,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vishrambag Wada",
+    "name:mr": "विश्रामबागवाडा",
+    "operator": "PMPML",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2358247541,
+  "lat": 18.5136795,
+  "lon": 73.8528447,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vishrambag Wada",
+    "name:mr": "विश्रामबागवाडा",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3686791977,
+  "lat": 18.5548956,
+  "lon": 73.8899727,
+  "tags": {
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Sales Tax Office",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3718634778,
+  "lat": 18.4471004,
+  "lon": 73.7997794,
+  "tags": {
+    "addr:street": "DSK Vishwa Road",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "DSK Vishwa Main Gate;DSK VIshwa Main Gate Bus Stop",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "no;yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4359880110,
+  "lat": 18.5882200,
+  "lon": 73.7841586,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Vishal Nagar",
+    "name:en": "Vishal Nagar",
+    "name:mr": "विशाल नगर बस स्थानक",
+    "operator": "PMPML",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4520573390,
+  "lat": 18.5553512,
+  "lon": 73.8185384,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Kendriya Vidyalaya Bus Stop",
+    "name:en": "Kendriya Vidyalaya Bus Stop",
+    "name:mr": "केंद्रीय विद्यालय",
+    "operator": "PMPML",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4520573690,
+  "lat": 18.5528813,
+  "lon": 73.8159890,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Kendriya Vidyalaya Bus Stop",
+    "name:en": "Kendriya Vidyalaya Bus Stop",
+    "name:mr": "केंद्रीय विद्यालय",
+    "operator": "PMPML",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4616977774,
+  "lat": 18.5594497,
+  "lon": 73.8158101,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "check_date:shelter": "2023-01-26",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Bremen Chowk bus stop",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4616978809,
+  "lat": 18.5598505,
+  "lon": 73.8152579,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Bremen Chowk bus stop",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "shelter": "no",
+    "source": "local knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 4846861222,
+  "lat": 18.4671456,
+  "lon": 73.8183264,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vadgaon BK Bridge",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5518866210,
+  "lat": 18.5924133,
+  "lon": 73.7616948,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Wakad Chowk BRTS Stop",
+    "name:mr": "वाकड चौक BRTS स्थानक",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q7260109",
+    "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5982741586,
+  "lat": 18.4899588,
+  "lon": 73.8498570,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "sarang society",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6045966843,
+  "lat": 18.5323493,
+  "lon": 73.8422295,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "check_date:shelter": "2023-02-06",
+    "from": "Pune Municipal Corporation",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Mhasoba Gate",
+    "name:en": "Mhasoba Gate",
+    "name:mr": "म्हसोबा गेट",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "passenger_information_display": "no",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "surface": "cobblestone"
+  }
+},
+{
+  "type": "node",
+  "id": 6736008247,
+  "lat": 18.5883312,
+  "lon": 73.7847443,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Vishal Nagar",
+    "name:en": "Vishal Nagar",
+    "name:mr": "विशाल नगर बस स्थानक",
+    "operator": "PMPML",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "website": "https://www.pmpml.org"
+  }
+},
+{
+  "type": "node",
+  "id": 7590035189,
+  "lat": 18.5833239,
+  "lon": 73.8241571,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Raviraj Hotel",
+    "name:mr": "रविराज हॉटेल",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "ref": "1",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7590035190,
+  "lat": 18.5834676,
+  "lon": 73.8242458,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Raviraj Hotel",
+    "name:mr": "रविराज हॉटेल",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "ref": "2",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7590035191,
+  "lat": 18.5860259,
+  "lon": 73.8215323,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Ramkrushna Mangal Karyalay",
+    "name:mr": "रामकृष्ण मंगल कार्यालय",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "ref": "2",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7590035192,
+  "lat": 18.5855181,
+  "lon": 73.8218858,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Ramkrushna Mangal Karyalay",
+    "name:mr": "रामकृष्ण मंगल कार्यालय",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "ref": "1",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7590057563,
+  "lat": 18.5889036,
+  "lon": 73.8199757,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pooja Hospital",
+    "name:mr": "पूजा रुग्णालय",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "ref": "1",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7590057564,
+  "lat": 18.5888228,
+  "lon": 73.8200867,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "yes",
+    "highway": "bus_stop",
+    "name": "Pooja Hospital",
+    "name:mr": "पूजा रुग्णालय",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "ref": "2",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7590085485,
+  "lat": 18.5911932,
+  "lon": 73.8195868,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Suvarna Park",
+    "name:mr": "सुवर्णा पार्क",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "ref": "2",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7590101276,
+  "lat": 18.5920042,
+  "lon": 73.8187320,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Navin Manapa School",
+    "name:mr": "नविन मनपा शाळा",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "ref": "3",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7590103285,
+  "lat": 18.5930389,
+  "lon": 73.8188741,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Pimple Gurav",
+    "name:mr": "पिंपळेगुरव",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "ref": "1",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7590103287,
+  "lat": 18.5931278,
+  "lon": 73.8185818,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Pimple Gurav",
+    "name:mr": "पिंपळेगुरव",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "ref": "2",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7596719872,
+  "lat": 18.5060341,
+  "lon": 73.8821368,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Pulgate",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7597447244,
+  "lat": 18.5665501,
+  "lon": 73.8120453,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Aundh Gaon",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wikidata": "Q7260109",
+    "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+  }
+},
+{
+  "type": "node",
+  "id": 7597447245,
+  "lat": 18.5657380,
+  "lon": 73.8120597,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "departures_board": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Aundh Gaon",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wikidata": "Q7260109",
+    "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+  }
+},
+{
+  "type": "node",
+  "id": 7600640290,
+  "lat": 18.6045974,
+  "lon": 73.7779335,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Kalewadi Phata",
+    "name:mr": "काळेवाडी फाटा",
+    "operator": "PMPML",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7616289709,
+  "lat": 18.6709343,
+  "lon": 73.8915120,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "yes",
+    "highway": "bus_stop",
+    "name": "Dehu Phata",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wikidata": "Q7260109",
+    "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+  }
+},
+{
+  "type": "node",
+  "id": 7628339382,
+  "lat": 18.6010447,
+  "lon": 73.8027923,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Pimple Saudagar",
+    "network": "Pune Mahanagar Parivahan Mahamandal Ltd",
+    "network:wikidata": "Q7260109",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "ref": "3054",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7628339383,
+  "lat": 18.6007308,
+  "lon": 73.8030334,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Pimple Saudagar",
+    "network": "Pune Mahanagar Parivahan Mahamandal Ltd",
+    "network:wikidata": "Q7260109",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "ref": "3055",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7628764450,
+  "lat": 18.6339646,
+  "lon": 73.8747511,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "yes",
+    "highway": "bus_stop",
+    "name": "Magzine Chowk",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "ref": "5636",
+    "shelter": "yes",
+    "wikidata": "Q7260109",
+    "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+  }
+},
+{
+  "type": "node",
+  "id": 7628764452,
+  "lat": 18.6338373,
+  "lon": 73.8748982,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Magzine Chowk",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "ref": "2951",
+    "shelter": "no",
+    "wikidata": "Q7260109",
+    "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+  }
+},
+{
+  "type": "node",
+  "id": 7628764454,
+  "lat": 18.6330548,
+  "lon": 73.8751346,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "yes",
+    "highway": "bus_stop",
+    "name": "Magzine Chowk",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "ref": "2952",
+    "shelter": "no",
+    "wikidata": "Q7260109"
+  }
+},
+{
+  "type": "node",
+  "id": 7628764455,
+  "lat": 18.6330979,
+  "lon": 73.8743942,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "yes",
+    "highway": "bus_stop",
+    "name": "Magzine Chowk",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "ref": "5636",
+    "shelter": "no",
+    "wikidata": "Q7260109",
+    "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+  }
+},
+{
+  "type": "node",
+  "id": 7635224853,
+  "lat": 18.4986771,
+  "lon": 73.8578427,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Swargate",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "ref": "3131",
+    "shelter": "yes",
+    "wikidata": "Q7260109",
+    "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+  }
+},
+{
+  "type": "node",
+  "id": 7635224854,
+  "lat": 18.4994549,
+  "lon": 73.8580866,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Swargate",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "ref": "4349",
+    "shelter": "yes",
+    "wikidata": "Q7260109",
+    "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+  }
+},
+{
+  "type": "node",
+  "id": 7635224856,
+  "lat": 18.4989302,
+  "lon": 73.8585049,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Swargate",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "ref": "4350",
+    "shelter": "yes",
+    "wikidata": "Q7260109",
+    "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+  }
+},
+{
+  "type": "node",
+  "id": 7682976844,
+  "lat": 18.6237985,
+  "lon": 73.8511190,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Bhosari Gaon",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wikidata": "Q7260109",
+    "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+  }
+},
+{
+  "type": "node",
+  "id": 7682976845,
+  "lat": 18.6245395,
+  "lon": 73.8514606,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Bhosari Terminal",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wikidata": "Q7260109",
+    "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+  }
+},
+{
+  "type": "node",
+  "id": 7812504402,
+  "lat": 18.5436062,
+  "lon": 73.8270770,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Pune University",
+    "name:mr": "पुणे विद्यापीठ",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7812504403,
+  "lat": 18.5428369,
+  "lon": 73.8255443,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Pune University",
+    "name:mr": "पुणे विद्यापीठ",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7812504406,
+  "lat": 18.5415896,
+  "lon": 73.8299276,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Pune University",
+    "name:en": "Pune University",
+    "name:mr": "पुणे विद्यापीठ",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7813253122,
+  "lat": 18.5285520,
+  "lon": 73.8749691,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "check_date:shelter": "2026-05-18",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Pune Railway Station",
+    "name:mr": "पुणे रेल्वे स्टेशन",
+    "network": "PMPNL",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7813253123,
+  "lat": 18.5285494,
+  "lon": 73.8748898,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "check_date:shelter": "2026-05-18",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Pune Railway Station",
+    "name:mr": "पुणे रेल्वे स्टेशन",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8441745290,
+  "lat": 18.5338459,
+  "lon": 73.8404741,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "from": "Pune Municipal Corporation",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Mhasoba Gate",
+    "name:en": "Mhasoba Gate",
+    "name:mr": "म्हसोबा गेट",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "passenger_information_display": "no",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9350842858,
+  "lat": 18.5731845,
+  "lon": 73.8813476,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Vishrantwadi",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9350893515,
+  "lat": 18.5958799,
+  "lon": 73.9247019,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lohgaon",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9556066812,
+  "lat": 18.5389719,
+  "lon": 73.8093348,
+  "tags": {
+    "alt_name": "Panchwati",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Panchvati",
+    "name:mr": "पंचवटी",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9556066813,
+  "lat": 18.5396267,
+  "lon": 73.8119688,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "NCL",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10115879727,
+  "lat": 18.4432672,
+  "lon": 73.7990024,
+  "tags": {
+    "addr:city": "Pune",
+    "addr:postcode": "411041",
+    "addr:street": "DSK Vishwa Road",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "internet_access": "no",
+    "name": "DSK Vishwa Bus Stand;DSK Vishwa Bus Stop",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 10115879728,
+  "lat": 18.4469170,
+  "lon": 73.8016884,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "C Bhausaheb Chavan Nagar Bus Stop",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 10172945802,
+  "lat": 18.4474738,
+  "lon": 73.8102021,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Umbrya Ganapati Chowk",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 10172945803,
+  "lat": 18.4506165,
+  "lon": 73.8109561,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Azad Mandal Bus Stop",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 10172945804,
+  "lat": 18.4521205,
+  "lon": 73.8111919,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ganesh Nagar Bus Stop",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 10172945805,
+  "lat": 18.4538636,
+  "lon": 73.8115090,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Raikar Vasti Bus Stop",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 10172945806,
+  "lat": 18.4540256,
+  "lon": 73.8117326,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Raikar Vasti Bus Stop",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 10172945807,
+  "lat": 18.4521976,
+  "lon": 73.8113585,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ganesh Nagar Bus Stop",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 10172945808,
+  "lat": 18.4605466,
+  "lon": 73.8126473,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sanas School",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 10172945809,
+  "lat": 18.4604657,
+  "lon": 73.8128140,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dhayari Phata",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 10172945810,
+  "lat": 18.4611636,
+  "lon": 73.8128384,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dhayari Ph.",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 10172945811,
+  "lat": 18.4612807,
+  "lon": 73.8132052,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sanas Ground",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 10172945812,
+  "lat": 18.4641486,
+  "lon": 73.8154330,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Patil Colony / Abhiruchi Mall",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 10172945813,
+  "lat": 18.4666418,
+  "lon": 73.8173877,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vadgaon BK Bridge",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 10172945814,
+  "lat": 18.4704935,
+  "lon": 73.8204146,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Indian Hume Pipe Company",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 10172945815,
+  "lat": 18.4704685,
+  "lon": 73.8206400,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Indian Hume Pipe Company",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 10172945816,
+  "lat": 18.4735946,
+  "lon": 73.8216942,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Manik Baug",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 10172956417,
+  "lat": 18.4733258,
+  "lon": 73.8217783,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Manikaug",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 10172956418,
+  "lat": 18.4782576,
+  "lon": 73.8238070,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Anand Nagar",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 10172956419,
+  "lat": 18.4820208,
+  "lon": 73.8263520,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ranka",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 10172956420,
+  "lat": 18.4874651,
+  "lon": 73.8286246,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rajaram Bridge",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 10172956421,
+  "lat": 18.4875808,
+  "lon": 73.8291206,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rajaram Brdg",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 10172956422,
+  "lat": 18.4850441,
+  "lon": 73.8279864,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vitthalvadi",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 10219140954,
+  "lat": 18.5807162,
+  "lon": 73.9875743,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "name": "Kesanand Phata Bus Stop",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "ref": "5"
+  }
+},
+{
+  "type": "node",
+  "id": 10230168185,
+  "lat": 18.6026434,
+  "lon": 73.7766737,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Kalewadi Phata",
+    "name:mr": "काळेवाडी फाटा",
+    "operator": "PMPML",
+    "public_transport": "stop_position",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10582053893,
+  "lat": 18.4735113,
+  "lon": 73.9752078,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fursungi Bus Stop",
+    "network": "Hadapsar-Fursungi",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "ref": "H-8",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10590934021,
+  "lat": 18.6073316,
+  "lon": 73.7803213,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Rahatani Phata",
+    "name:mr": "रहाटणी फाटा",
+    "operator": "PMPML",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10590934029,
+  "lat": 18.6109718,
+  "lon": 73.7832737,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Dhangarbaba Mandir",
+    "name:en": "Dhangarbaba Mandir",
+    "name:mr": "धनगरबाबा मंदिर",
+    "operator": "PMPML",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10766095481,
+  "lat": 18.4447807,
+  "lon": 73.7849623,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "description": "Route Bus Number: 52, 52A, 50",
+    "highway": "bus_stop",
+    "name": "Kolhewadi / CWPRS Main Gate PMPML Bus Stop",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10766095482,
+  "lat": 18.4446253,
+  "lon": 73.7851702,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "description": "Route Bus Number: 52, 52A, 50",
+    "highway": "bus_stop",
+    "name": "Kolhewadi / CWPRS Main Gate PMPML Bus Stop",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10766095483,
+  "lat": 18.4463007,
+  "lon": 73.7888904,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "description": "Route Bus Number: 52, 52A, 50",
+    "highway": "bus_stop",
+    "name": "Kirkatwadi PMPML Bus Stop",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10766095484,
+  "lat": 18.4469640,
+  "lon": 73.7890265,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "description": "Route Bus Number: 52, 52A, 50",
+    "highway": "bus_stop",
+    "name": "Kirkatwadi PMPML Bus Stop",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10807027572,
+  "lat": 18.6661935,
+  "lon": 73.8013403,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Shiv Parvati Mandir",
+    "network": "Gharkul-Nigdi",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 11292638606,
+  "lat": 18.4582300,
+  "lon": 73.8080676,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lagad Mala PMPML Bus Stop",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 11292638607,
+  "lat": 18.4580052,
+  "lon": 73.8079482,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lagad Mala PMPML Bus Stop",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 12079553630,
+  "lat": 18.4465350,
+  "lon": 73.7999078,
+  "tags": {
+    "addr:street": "DSK Vishwa Road",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "DSK Vishwa Main Gate;DSK VIshwa Main Gate Bus Stop",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "no;yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12079553631,
+  "lat": 18.4468155,
+  "lon": 73.8015494,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "C Bhausaheb Chavan Nagar Bus Stop",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 12895623505,
+  "lat": 18.4499361,
+  "lon": 73.8534763,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Wonder City (Katraj)",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13271104284,
+  "lat": 18.5271142,
+  "lon": 73.8576874,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "District Court Bus Stop",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13392226293,
+  "lat": 18.6609726,
+  "lon": 73.8865635,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Charholi Phata",
+    "network": "Pune and pimpri-chinchwad",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13392305498,
+  "lat": 18.6403704,
+  "lon": 73.8769770,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Thorya Paduka Temple",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13392333096,
+  "lat": 18.6369364,
+  "lon": 73.8747603,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mauli Nagar",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13392353632,
+  "lat": 18.6545958,
+  "lon": 73.8844301,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Wadmukhwadi phata",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13392357058,
+  "lat": 18.6327382,
+  "lon": 73.8749615,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Magzine Chowk",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13392357779,
+  "lat": 18.6461559,
+  "lon": 73.8804840,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Balaji Mandir",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13392358742,
+  "lat": 18.6579792,
+  "lon": 73.8858732,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chovisawadi phata",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13392364462,
+  "lat": 18.6500031,
+  "lon": 73.8817823,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sankalp Garden",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13556630797,
+  "lat": 18.4494051,
+  "lon": 73.8582561,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "More Baug / Sawant Vihar BRT",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13556637825,
+  "lat": 18.4475906,
+  "lon": 73.8584810,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Katraj",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 13556651711,
+  "lat": 18.4468092,
+  "lon": 73.8586593,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Katraj",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 13556651712,
+  "lat": 18.4467624,
+  "lon": 73.8590746,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Katraj",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 13577528831,
+  "lat": 18.4572881,
+  "lon": 73.8513859,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bharati Vidyapeeth",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13577528832,
+  "lat": 18.4556392,
+  "lon": 73.8510149,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Icchapurti Ganesh Mandir Bus Stop",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13577528833,
+  "lat": 18.4540122,
+  "lon": 73.8513710,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Thorve School",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 13577528834,
+  "lat": 18.4566331,
+  "lon": 73.8534034,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bharati Vidyapeeth School",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 13585356688,
+  "lat": 18.5499736,
+  "lon": 73.8100813,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Baner Phata",
+    "name:en": "Baner Phata",
+    "name:mr": "बाणेर फाटा",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13585519604,
+  "lat": 18.4837043,
+  "lon": 73.8713942,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marketyard",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 13585519605,
+  "lat": 18.4837662,
+  "lon": 73.8715384,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marketyard",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 13585519606,
+  "lat": 18.4876944,
+  "lon": 73.8705767,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Godown Gultekdi",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 13585519607,
+  "lat": 18.4899323,
+  "lon": 73.8700477,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Wakhar Mahamandal Marketyard",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 13585519608,
+  "lat": 18.4899037,
+  "lon": 73.8699158,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Wakhar Mahamandal Marketyard",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 13585519609,
+  "lat": 18.4927820,
+  "lon": 73.8693738,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "P&T Colony / Giridhar Bhavan",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 13585519610,
+  "lat": 18.4932971,
+  "lon": 73.8691437,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "P&T Colony / Giridhar Bhavan",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 13585519611,
+  "lat": 18.4959564,
+  "lon": 73.8691865,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dias Plot",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 13585519612,
+  "lat": 18.4957662,
+  "lon": 73.8693798,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dias Plot",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 13585519613,
+  "lat": 18.4997366,
+  "lon": 73.8692878,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Apsara Talkies",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 13586876711,
+  "lat": 18.5075453,
+  "lon": 73.7810091,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chandani Chowk",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 13586876712,
+  "lat": 18.5079149,
+  "lon": 73.7808748,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chandani Chowk",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 13586876713,
+  "lat": 18.5084205,
+  "lon": 73.7827506,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chandani Chowk",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 13586876714,
+  "lat": 18.5070546,
+  "lon": 73.7871427,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ved Bhavan",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 13598251060,
+  "lat": 18.5416946,
+  "lon": 73.8265087,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Pune University",
+    "name:en": "Pune University",
+    "name:mr": "पुणे विद्यापीठ",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13620973259,
+  "lat": 18.5022662,
+  "lon": 73.8169464,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Karve Putala",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13852176936,
+  "lat": 18.5945580,
+  "lon": 73.7395583,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hinjawadi Gavthan",
+    "name:en": "Hinjawadi Gavthan",
+    "name:mr": "हिंजवडी गावठाण",
+    "network": "PMPML",
+    "operator": "PMPML",
+    "public_transport": "platform"
+  }
+}
+
+  ]
+}
