@@ -1,6 +1,9 @@
 const usermodel=require('../models/User');
-
+const bcrypt=require('bcryptjs');
+const jwt=require('jsonwebtoken');
+require("dotenv").config();
 const signup=async(req,res)=>{
+  try{
     const {name,email,password}=req.body;
     const usermail=await usermodel.findOne({email});
     if(usermail){
@@ -10,10 +13,12 @@ const signup=async(req,res)=>{
       });
     }
     
+    const hashedpass=await bcrypt.hash(password,10)
+
     const user=await usermodel.create({
         name,
         email,
-        password
+        password : hashedpass
     });
     console.log(user);
 
@@ -21,22 +26,49 @@ const signup=async(req,res)=>{
         success: true,
         message: "User created successfully",
         user
-    });
+    })
+  }
+  catch(err){
+    res.status(500).json(err);
+  }
 
 }
 const login=async(req,res)=>{
+  try{
 const {email,password}= req.body;
-const usermail=await usermodel.findOne({email});
-if(!usermail){
+const user=await usermodel.findOne({email});
+if(!user){
    return res.status(403).json({
     success:false,
     message:"User not exist"
    })
 }
-if(usermail.password===password) {
-    return res.json({
+
+const isMatch= await bcrypt.compare(password,user.password)
+    
+if(!isMatch){
+  return res.status(401).json({
+    success:false,
+    message:"Wrong passord"
+  })
+}
+
+const token=jwt.sign(
+  { id:user._id,role:user.role},
+  process.env.JWT_SECRET,
+  {expiresIn :'4d'}
+)
+
+return res.json({
         success:true,
-        message:"Login successful"
-    });
+        message:"Login successful",
+        token
+    })
+  
+
 }
+  catch(err){
+res.status(500).json(err);
+  }
 }
+module.exports={signup,login};
