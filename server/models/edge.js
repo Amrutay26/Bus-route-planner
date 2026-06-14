@@ -1,12 +1,12 @@
 const mongoose=require('mongoose');
 
 const edgeSchema=mongoose.Schema({
-from:{
+fromStop:{
     type:mongoose.Schema.Types.ObjectId,
     ref:'BusStop',
     required:true
 },
-to:{
+toStop:{
      type:mongoose.Schema.Types.ObjectId,
     ref:'BusStop',
     required:true

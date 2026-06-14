@@ -6,11 +6,11 @@ type: String,
 required:[true],
 unique:true
 },
-stops :{
+stops :[{
 type:mongoose.Schema.Types.ObjectId,
 required:true,
 ref:"busstop"
-},
+}],
 fareperkm:{
     type:Number,
     required:true
