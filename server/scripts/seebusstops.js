@@ -7,11 +7,14 @@ const {elements}=require('./stops.json');
 const stops=async()=>{
     try{
    await  connectdb();
+   await BusStop.deleteMany({})
+   console.log("Cleared")
+await BusStop.syncIndexes()
 
  for(const element of elements){
 
     const existingstop=await BusStop.findOne({
-        stopname:element.tags.name
+        stopName:element.tags.name
     });
     if(!existingstop){
  await BusStop.create({
